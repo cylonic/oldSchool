@@ -1,0 +1,8 @@
+echo My Batch File
+cd /home
+dir
+echo Something Else
+gedit
+firefox
+
+
